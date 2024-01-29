@@ -1,5 +1,3 @@
-![dino](https://github.com/Debang5hu/Debang5hu/assets/114200360/59007386-372f-463d-acc6-140ce6288c75)
-
 ### 👋🏻 Hello World :)  
 
 I am Debangshu Roy, Interested in Penetration Testing.  
