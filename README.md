@@ -8,8 +8,6 @@ I am Debangshu Roy, Interested in Penetration Testing.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Debangshu.png" alt="TryHackMe">  
 
-![htb](https://github.com/Debang5hu/Debang5hu/assets/114200360/59e4f96f-8d68-4164-b830-2711e5e592cd)   
-
 ---  
 
 ### 💼 Technical Skills
@@ -22,13 +20,9 @@ I am Debangshu Roy, Interested in Penetration Testing.
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
 
-*Code Editor:*  
+*Others:*  
 
-![VS CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
-
-*OS:*  
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![VS CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---  
 
@@ -43,3 +37,4 @@ I am Debangshu Roy, Interested in Penetration Testing.
 ### 👨🏻‍🎓 Certifications  
 
 <a href="https://www.credly.com/badges/15e9cb4a-74d9-4a6b-aed6-75d4e1ad52d8/public_url" >SC-900</a>
+
