@@ -6,7 +6,8 @@ I am Debangshu Roy, Interested in Penetration Testing.
 
 ### Progress  
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Debangshu.png" alt="TryHackMe">  
+ <script src="https://tryhackme.com/badge/1237215"></script>  
+ 
 
 ---  
 
