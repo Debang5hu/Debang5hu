@@ -1,4 +1,4 @@
-![]("https://media.tenor.com/rSVxI44jSyEAAAAj/waving-hand-om-nom.gif")  
+<img src="https://media.tenor.com/rSVxI44jSyEAAAAj/waving-hand-om-nom.gif" width="100" height="100">  
 
 I am Debangshu, Interested in Penetration Testing.  
 
