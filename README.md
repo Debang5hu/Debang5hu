@@ -17,17 +17,7 @@ class Debang5hu:
 if __name__ == '__main__':
 	readme = Debang5hu()
 
-```  
-
-
-### Progress  
-
-<img src="https://www.hackthebox.com/badge/image/1577287" alt="HackTheBox">  
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Debang5hu.png" alt="TryHackMe">   
-  
-  
-
+```
 
 ### 🌐 Social Networks  
 
