@@ -18,9 +18,3 @@ if __name__ == '__main__':
 	readme = Debang5hu()
 
 ```
-
-### 🌐 Social Networks  
-
-<p align="left">
-<a href="https://linkedin.com/in/debangshu-roy-773827254" target="blank">  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href='https://discord.com/users/718847515176206406' target="blank"> <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>  
-</p>  
